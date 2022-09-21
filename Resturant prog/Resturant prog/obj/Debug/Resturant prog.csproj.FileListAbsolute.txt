@@ -1,0 +1,21 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\bin\Debug\Resturant prog.exe.config
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\bin\Debug\Resturant prog.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\bin\Debug\Resturant prog.pdb
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\obj\Debug\Resturant prog.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\obj\Debug\Resturant_prog.Form1.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\obj\Debug\Resturant_prog.Properties.Resources.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\obj\Debug\Resturant prog.csproj.GenerateResource.Cache
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\obj\Debug\Resturant prog.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\obj\Debug\Resturant prog.pdb
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Resturant prog\Resturant prog\obj\Debug\Resturant_prog.Form2.resources
+F:\My codes\Resturant prog\Resturant prog\bin\Debug\Resturant prog.exe.config
+F:\My codes\Resturant prog\Resturant prog\bin\Debug\Resturant prog.exe
+F:\My codes\Resturant prog\Resturant prog\bin\Debug\Resturant prog.pdb
+F:\My codes\Resturant prog\Resturant prog\obj\Debug\Resturant prog.csprojAssemblyReference.cache
+F:\My codes\Resturant prog\Resturant prog\obj\Debug\Resturant_prog.Form1.resources
+F:\My codes\Resturant prog\Resturant prog\obj\Debug\Resturant_prog.Form2.resources
+F:\My codes\Resturant prog\Resturant prog\obj\Debug\Resturant_prog.Properties.Resources.resources
+F:\My codes\Resturant prog\Resturant prog\obj\Debug\Resturant prog.csproj.GenerateResource.cache
+F:\My codes\Resturant prog\Resturant prog\obj\Debug\Resturant prog.csproj.CoreCompileInputs.cache
+F:\My codes\Resturant prog\Resturant prog\obj\Debug\Resturant prog.exe
+F:\My codes\Resturant prog\Resturant prog\obj\Debug\Resturant prog.pdb
